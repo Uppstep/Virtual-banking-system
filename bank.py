@@ -3,7 +3,7 @@ print("                            Online banking system                        
 print("START BY ENTERING DETAILS DONE SO: JACK = bank('Jack', 14, 'male'")
 print("To view details do: Jack.show_user_details()")
 print("To make a deposit do: Jack.deposit(100) ")
-print("To withdraw do: Jack.withdraw(50)
+print("To withdraw do: Jack.withdraw(50)")
 print("Note name and amount of money is just and example it can be whatever")
 #parent class
 class User():
